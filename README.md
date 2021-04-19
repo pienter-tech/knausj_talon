@@ -84,8 +84,7 @@ If you use vim, just start with the numbers and alphabet, otherwise look at gene
 
 ###  Alphabet
 The alphabet is defined here
-https://github.com/knausj85/knausj_talon/blob/master/code/keys.py#L6
-
+https://github.com/knausj85/knausj_talon/blob/master/code/keys.py
 `help alphabet` will open a window that displays the alphabet. `help close` to hide the window.
 
 Try saying e.g. `air bat cap` to insert abc.
